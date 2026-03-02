@@ -34,3 +34,4 @@ percent=total/5
 console.log("Percentage:"+ percent+"%")
 }
 marklist(10001,"Charu",90,34,97,54,78,"total","result","grade","percent")
+marklist(10002,"Manoj", 55,65,75,85,95,"total","result","grade","percent")

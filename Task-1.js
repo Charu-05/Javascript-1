@@ -51,7 +51,7 @@ if (stream == "science") {
 // 2. ATM Cash Withdrawal Simulation
 //Inputs: Account type ("Savings", "Current"), balance, withdrawal amount, day of the week.
 //Rules:
-//Savings: Min balance after withdrawal should be ₹1,000.
+//Savings: Min balance after withdrawal should be ₹1,000. a
 //Current: Min balance after withdrawal should be ₹5,000.
 //On Sunday, ATM service charge is ₹50 extra.
 //Use nested if for account + day check.
